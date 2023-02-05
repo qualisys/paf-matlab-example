@@ -8,10 +8,9 @@ To download this example project to your computer, you can either:
 * Clone this repository to your computer.
 
 ## Preparing Qualisys data for OpenSim processing
-1. In QTM, in Project Options > Processing > MATLAB Export: activate "3D Data" export.
-2. In QTM, set Project Options > Miscellaneous > Folder Options for "Matlab" to ```C:\Program Files\MATLAB\R2017b\bin\matlab.exe``` (adapt if a different version of Matlab is used).
-
-Example tested with Matlab 2017b.
+1. In QTM, in Project Options > Processing > MATLAB Export: activate "3D Data" export
+2. In QTM, set Project Options > Miscellaneous > Folder Options for "Matlab" to ```C:\Program Files\MATLAB\R2022a\bin\matlab.exe``` (adapt if a different version of Matlab is used)
+3. In the PAF pane, click on Start Processing. It will open Matlab and run Templates/example.m which will create the output.xml file
 
 ## Resources for using the Qualisys Project Automation Framework (PAF)
 
