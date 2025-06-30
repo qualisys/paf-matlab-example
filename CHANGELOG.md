@@ -1,7 +1,7 @@
 # Changelog
 
 ## [1.0.4]
-Tested with QTM 2025.1 build 15267 and Matlab 2024b.
+Tested with QTM 2025.1 build 15267 and Matlab 2025a.
 
 ## [1.0.3]
 Tested with QTM 2024.3 build 14360 and Matlab 2024b.
