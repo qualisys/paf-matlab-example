@@ -1,5 +1,7 @@
 # Changelog
 
+## [1.0.6]
+Tested with QTM 2026.2 (build 17495) and Matlab 2025a.
 
 ## [1.0.5]
 Tested with QTM 2026.1 (build 16751) and Matlab 2025a.
